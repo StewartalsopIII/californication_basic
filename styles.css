@@ -1,0 +1,22 @@
+body {
+    background-color: #FFD700;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    color: #FF69B4;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #0000FF;
+}
+
+p {
+    font-size: 2em;
+    text-align: center;
+    color: #008000;
+}
+
+#submit{
+    display: block;
+    margin: 0 auto;
+}
